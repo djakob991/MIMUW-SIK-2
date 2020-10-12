@@ -1,5 +1,5 @@
 # MIMUW-SIK-2
-Projekt z przedmiotu Sieci Komputerowe na MIMUW
+Projekt z przedmiotu Sieci Komputerowe na MIMUW. Rozwiązane zostały podpunkty A i B.
 
 ## Treść zadania
 
